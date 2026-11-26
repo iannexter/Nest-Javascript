@@ -1,4 +1,4 @@
 # Nest-Javascript
 Projetos NestJS
 
-Gerador-PDF: gerador de pdf através de uma base de dados
+Gerador-PDF: Gerador de pdf através de uma base de dados postgres
